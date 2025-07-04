@@ -33,8 +33,8 @@ Ao final, o sistema exibe uma mensagem com os dados informados.
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Java JDK 17 (ou superior)
-- IDE (IntelliJ IDEA, Eclipse, VSCode, etc.)
+- Java JDK 21
+- IDE (IntelliJ IDEA, VSCode)
 - Terminal / Console
 
 ---
